@@ -35,23 +35,22 @@
     <li class="nav-item">
       <a href="{{ url('/mahasiswa') }}" class="nav-link">
       <i class="nav-icon fas fa-th"></i>
-      <p>Mahasiswa</p>
+      <p>Dokter</p>
       </a>
       </li>
     <li class="nav-item">
     <a href="{{ url('/profile') }}" class="nav-link">
     <i class="nav-icon fas fa-th"></i>
-    <p>Profile</p>
+    <p>Pasien</p>
     </a>
     </li>
     <li class="nav-item">
     <a href="{{ url('/kuliah') }}" class="nav-link">
     <i class="nav-icon fas fa-book"></i>
-    <p>Pengalaman Kuliah</p>
+    <p>Informasi RumahSakit</p>
     </a>
     </li>
     </ul>
     </nav>
     <!-- /.sidebar-menu -->
     </div>
-    
